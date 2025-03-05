@@ -20,7 +20,7 @@ ALARM_SOUND = "pianos-by-jtwayne-7-174717.wav"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 EMAIL_SENDER = "mageshhariramk2004@gmail.com"
-EMAIL_PASSWORD = "nioz puwn pvip rqde"
+EMAIL_PASSWORD = "gtge ygyg njnh nbhh"
 EMAIL_RECEIVER = "kmageshhariram2004@gmail.com"
 
 def play_alarm():
