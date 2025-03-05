@@ -14,13 +14,13 @@ from email.mime.multipart import MIMEMultipart
 # - smtplib for email alerts
 
 pygame.mixer.init()
-ALARM_SOUND = "alarm.wav"  # Replace with the path to your custom sound file
+ALARM_SOUND = "pianos-by-jtwayne-7-174717.wav"
 
 # Email Configuration
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 EMAIL_SENDER = "mageshhariramk2004@gmail.com"
-EMAIL_PASSWORD = "magesh1010"
+EMAIL_PASSWORD = "nioz puwn pvip rqde"
 EMAIL_RECEIVER = "kmageshhariram2004@gmail.com"
 
 def play_alarm():
